@@ -1,4 +1,4 @@
-## Lesson 3 Task 6
+## Lesson Final Task HTML & CSS 
 ## How to run/test this project
 * ensure you have git installed properly on your machine
 * ensure you have node js installed in your machine

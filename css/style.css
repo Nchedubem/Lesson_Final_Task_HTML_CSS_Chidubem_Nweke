@@ -57,17 +57,13 @@ table {
 	padding: 0;
 }
 
-.col-md-6{
-	background-color: bisque;
-}
 
-.red{
-	background-color: red;
-}
 
 img{
 	height: 100%;
 	width: 100%;
 }
 
-img 
+.project{
+	background-color: aqua;
+}
